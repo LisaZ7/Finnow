@@ -6,7 +6,7 @@ function About() {
   return (
     <div id="Body">
       <Heading p="30px">About Us</Heading>
-      <HStack my="10">
+      <HStack my="5">
         <Text p="30px" fontSize={"xl"}>
           Finnow is a platform intended to assist users with their financial
           journey. It utilizes an LLM that gives users advice based on their
